@@ -1,0 +1,80 @@
+level_0 = {
+		'terrain': '../levels/0/0_terrain.csv',
+		'coins':'../levels/0/0_coins.csv',
+		'fg palms':'../levels/0/0_fg palms.csv',
+		'bg palms':'../levels/0/0_bg palms.csv',
+		'crates': '../levels/0/0_crates.csv',
+		'enemies':'../levels/0/0_enemies.csv',
+		'constraints':'../levels/0/0_constraint.csv',
+		'player': '../levels/0/0_player.csv',
+		'grass': '../levels/0/0_grass.csv',
+		'node': ((110,400),'../graphics/overworld/1'),
+		'unlock': 1}
+level_1 = {
+		'terrain': '../levels/1/1_terrain.csv',
+		'coins':'../levels/1/1_coins.csv',
+		'fg palms':'../levels/1/1_fg palms.csv',
+		'bg palms':'../levels/1/1_bg palms.csv',
+		'crates': '../levels/1/1_crates.csv',
+		'enemies':'../levels/1/1_enemies.csv',
+		'constraints':'../levels/1/1_constraint.csv',
+		'player': '../levels/1/1_player.csv',
+		'grass': '../levels/1/1_grass.csv',
+		'node': ((300,220),'../graphics/overworld/2'),
+		'unlock': 2}
+level_2 = {
+		'terrain': '../levels/1/1_terrain.csv',
+		'coins':'../levels/1/1_coins.csv',
+		'fg palms':'../levels/1/1_fg palms.csv',
+		'bg palms':'../levels/1/1_bg palms.csv',
+		'crates': '../levels/1/1_crates.csv',
+		'enemies':'../levels/1/1_enemies.csv',
+		'constraints':'../levels/1/1_constraint.csv',
+		'player': '../levels/1/1_player.csv',
+		'grass': '../levels/1/1_grass.csv',
+		'node': ((480,610),'../graphics/overworld/3'),
+		'unlock': 3}
+level_3 = {
+		'terrain': '../levels/1/1_terrain.csv',
+		'coins':'../levels/1/1_coins.csv',
+		'fg palms':'../levels/1/1_fg palms.csv',
+		'bg palms':'../levels/1/1_bg palms.csv',
+		'crates': '../levels/1/1_crates.csv',
+		'enemies':'../levels/1/1_enemies.csv',
+		'constraints':'../levels/1/1_constraint.csv',
+		'player': '../levels/1/1_player.csv',
+		'grass': '../levels/1/1_grass.csv',
+		'node': ((610,350),'../graphics/overworld/4'),
+		'unlock': 4}
+level_4 = {
+		'terrain': '../levels/1/1_terrain.csv',
+		'coins':'../levels/1/1_coins.csv',
+		'fg palms':'../levels/1/1_fg palms.csv',
+		'bg palms':'../levels/1/1_bg palms.csv',
+		'crates': '../levels/1/1_crates.csv',
+		'enemies':'../levels/1/1_enemies.csv',
+		'constraints':'../levels/1/1_constraint.csv',
+		'player': '../levels/1/1_player.csv',
+		'grass': '../levels/1/1_grass.csv',
+		'node': ((880,210),'../graphics/overworld/5'),
+		'unlock': 5}
+level_5 = {
+		'terrain': '../levels/1/1_terrain.csv',
+		'coins':'../levels/1/1_coins.csv',
+		'fg palms':'../levels/1/1_fg palms.csv',
+		'bg palms':'../levels/1/1_bg palms.csv',
+		'crates': '../levels/1/1_crates.csv',
+		'enemies':'../levels/1/1_enemies.csv',
+		'constraints':'../levels/1/1_constraint.csv',
+		'player': '../levels/1/1_player.csv',
+		'grass': '../levels/1/1_grass.csv',
+		'node': ((1050,400),'../graphics/overworld/6'),
+		'unlock': 5}
+
+levels = {
+	0: level_0,
+	1: level_1,
+	2: level_2,
+	3: level_3,
+	4: level_4,
+	5: level_5}
